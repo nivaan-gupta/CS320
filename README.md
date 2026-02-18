@@ -1,1 +1,1 @@
-# CS320
+# Repository for git setup, Nivaan Vikas Gupta
